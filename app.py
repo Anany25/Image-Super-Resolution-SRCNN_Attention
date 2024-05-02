@@ -16,10 +16,6 @@ x_dim=678//2
 model=DeeperSRCNNwithAttention()
 model.load_state_dict(torch.load('model_deep_att.pth'))
 
-#src_model=SRCNN()
-#src_model.load_state_dict(torch.load('model_y.pth'))
-# Define transformations for input image
-
 def process_image(image_bytes):
 	image = Image.open(io.BytesIO(image_bytes))
 	image = np.array(image)
