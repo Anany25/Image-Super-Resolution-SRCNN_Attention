@@ -4,10 +4,6 @@
 
 This project explores the potential of deep learning techniques to enhance the resolution of low-quality images, making them sharper and more detailed. The objective is to apply advanced algorithms to improve image clarity in applications requiring high precision.
 
-## Team Members
-- Anany Kumar Singh | Email: ananykum@buffalo.edu
-- Nikunj Odayoth | Email: nikunjod@buffalo.edu
-
 ## Problem Statement
 
 The project addresses the challenge posed by the abundance of poor-quality images due to various factors like suboptimal shooting conditions and compression losses. Traditional enhancement techniques often result in unsatisfactory resolution and clarity, necessitating the need for superior methods such as those based on deep learning.
